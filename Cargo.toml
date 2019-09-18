@@ -1,0 +1,10 @@
+[package]
+name = "gui_dct_dwt"
+version = "0.1.0"
+authors = ["Gongshang Xie <gjqf7788@126.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = "^0"
+gio = "^0"
+gdk-pixbuf = "^0"
